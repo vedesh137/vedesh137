@@ -2,7 +2,7 @@
 <a href="https://www.youtube.com/watch?v=5KoarUyhRcQ" > Student Conduct Tracker Video </a> <br><br>
 <a href="https://www.youtube.com/watch?v=tONggpfG1js" > Java Game Video </a> <br> <br>
 <a href="https://www.youtube.com/watch?v=zn8tsMHoNXY" > Caribbean Lifestyle Music Site Video </a> <br> <br>
-<a href="https://drive.google.com/drive/folders/1eqmvRlNbgP3z49az1yIhxaYxSFouZbTz" > AI Art wordpress Site </a>
+<a href="https://drive.google.com/drive/folders/1eqmvRlNbgP3z49az1yIhxaYxSFouZbTz" > AI Art wordpress Site Video</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
